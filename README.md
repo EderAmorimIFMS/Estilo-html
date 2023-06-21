@@ -1,1 +1,1 @@
-Estilo e formato html - igual ao Projeto intradiciplinar
+Estilo e formato html - igual ao Projeto interdiciplinar
